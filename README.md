@@ -19,7 +19,7 @@
 const archanaserver = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Styled-Components],
+  tools: [React, Redux, Node, Styled-Components, Firebase],
   currentLearning: ["ReactJS", "JavaScript", "Competitive Programming"],
   website: "https://archanaserver.github.io/"
   techCommunities: {
