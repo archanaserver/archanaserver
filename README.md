@@ -1,15 +1,32 @@
-### Hi there, I'm Archana 🌸 
+<h2> Hi, I'm Archana Kumari! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<a href="https://archanaserver.github.io/"><img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"></a>
+<p>
+  <em>
+    Computer Science Graduate<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    </br>
+    JavaScript & React Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
+</p>
 
-<!--
-**archanaserver/archanaserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m currently working on JavaScript, ReactJS and Competitive Programming
-- 🌱 I’m currently learning Cloud Computing and Backend Development
-- 🎲 I love algorithms and paradox stuffs
-- 🗒 I write blogs, you can read it from [here](https://archanaserver.medium.com/)
-- 🦋 I’m looking to collaborate on Javascript/ReactJS projects
-- 📫 How to reach me: [@archanaserver](https://archanaserver.github.io/)
+[![Twitter: archanaserver](https://img.shields.io/twitter/follow/archanaserver?style=social)](https://twitter.com/archanaserver)
+[![Linkedin: archanaserver](https://img.shields.io/badge/-archanaserver-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archanaserver/)](https://www.linkedin.com/in/archanaserver/)
+[![Medium archanaserver](https://img.shields.io/badge/-archanaserver-white?style=social&logo=Medium&logoColor=black&link=https://archanaserver.medium.com/)](https://archanaserver.medium.com/)
 
 
-### Thank You!
+### <img src="https://media.giphy.com/media/8P7mJkmb64zMrRpYzN/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const archanaserver = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Java],
+  tools: [React, Redux, Node, Styled-Components],
+  currentLearning: ["ReactJS", "JavaScript", "Competitive Programming"],
+  website: "https://archanaserver.github.io/"
+  techCommunities: {
+                        regionalHead: "GirlScript Foundation",
+                        campusLead: "SHEROES In Tech",
+                        crioAvocate: "Crio.Do"
+                      },
+ challenge: "I am doing 1% extra challenge focused on javascript, react, competitive programming and writing blogs"
+}
+```
