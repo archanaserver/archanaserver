@@ -19,13 +19,13 @@
 const archanaserver = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Styled-Components, Firebase],
-  currentLearning: ["ReactJS", "JavaScript", "Competitive Programming"],
+  tools: [React, Redux, Node, Styled-Components, Firebase, AWS],
+  currentLearning: ["ReactJS", "JavaScript", "Competitive Programming", "System Design"],
   website: "https://archanaserver.github.io/"
   techCommunities: {
+                      crioAdvocate: "Crio.Do",
                       regionalHead: "GirlScript Foundation",
-                      campusLead: "SHEROES In Tech",
-                      crioAvocate: "Crio.Do"
+                      campusLead: "SHEROES In Tech"
                    },
   challenge: "I am doing 1% extra challenge focused on javascript, react, competitive programming and writing blogs 📝"
 }
