@@ -20,7 +20,7 @@
 const archanaserver = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Material UI, MongoDB, Firebase, AWS],
+  tools: [React, Node, Material UI, MongoDB, Firebase, AWS],
   currentLearning: ["ReactJS", "JavaScript", "Competitive Programming", "System Design"],
   website: "https://archanaserver.github.io/"
   techCommunities: {
@@ -28,7 +28,7 @@ const archanaserver = {
                       regionalHead: "GirlScript Foundation",
                       campusLead: "SHEROES In Tech"
                    },
-  challenge: "I am doing 1% extra challenge focused on javascript, react, competitive programming and writing blogs 📝"
+  challenge: "I am doing 1% extra challenge focused on javascript, react, redux, competitive programming and writing blogs 📝"
 }
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ♥</em>
