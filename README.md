@@ -2,7 +2,7 @@
 <a href="https://archanaserver.github.io/"><img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"></a>
 <p>
   <em>
-    Computer Science Graduate<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    OpenStack intern in Outreachy'21<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
     </br>
     JavaScript & React Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em>
