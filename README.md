@@ -26,7 +26,8 @@ const archanaserver = {
   currentLearning: ["ReactJS", "JavaScript", "Competitive Programming", "System Design"],
   website: "https://archanaserver.in/"
   techCommunities: {
-                      crioAdvocate: "Crio.Do",
+                      anitab.org: "Open Source Day Mentor"
+                      crioaAdvocate: "Crio.Do",
                       regionalHead: "GirlScript Foundation",
                       campusLead: "SHEROES In Tech"
                    },
