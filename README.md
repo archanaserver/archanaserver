@@ -3,7 +3,7 @@
 
 #### ❝ Individual Contributor at OpenStack | FOSS passionate | Outreachy'21 intern at OpenStack | JavaScript and React Developer | Cloud Computing is 🤍 ❞
 
-#### *ੈ✩‧₊˚ My OpenStack contributions on <a href="https://review.opendev.org/dashboard/33380">`Gerrit`</a>, <a href="https://github.com/archanaserver/my-projects">`project works`</a> & <a href="https://archanaserver.in/blog">`blogs`</a><img src="https://media.giphy.com/media/Qwo0vB87Z8mbYu1arJ/giphy.gif" width="30">  ࿐ྂ
+#### ˗ˏˋ My OpenStack contributions on <a href="https://review.opendev.org/dashboard/33380">`Gerrit`</a>, <a href="https://github.com/archanaserver/my-projects">`project works`</a> & <a href="https://archanaserver.in/blog">`blogs`</a><img src="https://media.giphy.com/media/Qwo0vB87Z8mbYu1arJ/giphy.gif" width="30">  ࿐ྂ
 
 
 ### <img src="https://media.giphy.com/media/8P7mJkmb64zMrRpYzN/giphy.gif" width="50"> A little more about me .ೃ࿔*:･
