@@ -13,8 +13,8 @@ const archanaserver = {
   pronouns: "she" | "her",
   code: [Javascript(React), Python, Django, Node, ASP.NET, C#],
   tools: [OpenStack, AWS, Linux, Firebase, MongoDB, GCP, Microsoft Azure],
-  currentLearning: [Kubernetes, Docker, Cloud, OpenStack, Python]
-  interests: [Product Engineering, Web Performance, Community Building, Mentorship, User Experience, Public Speaking, Technical Writing]
+  currentLearning: [Kubernetes, Docker, Cloud, OpenStack, Python],
+  interests: [Product Engineering, Web Performance, Community Building, Mentorship, User Experience, Public Speaking, Technical Writing],
   techCommunities: {
                       "anitab.org": "Open Source Day Mentor",
                       "anitab.org": "Open Source Ambassadors",
@@ -22,7 +22,7 @@ const archanaserver = {
                       "campusLead": "SHEROES In Tech"
                       "regionalHead": "GirlScript Foundation",
                    },
-  website: "https://archanaserver.in/"
+  website: "https://archanaserver.in/",
 }
 ```
 #### Have something interesting to talk? Let's connect ೃ༄
