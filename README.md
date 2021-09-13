@@ -32,4 +32,4 @@ const archanaserver = {
 [![Polywork](https://img.shields.io/badge/-archanaserver-543DE0?style=flat-square&logo=Polywork&logoColor=white&link=https://www.polywork.com/archanaserver/)](https://www.polywork.com/archanaserver/)
 [![Instagram](https://img.shields.io/badge/-archanaserver-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/archanaserver/)](https://www.instagram.com/archanaserver/)
 
-.·:*¨༺ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> ♥</em> ༊*·˚ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+.·:*¨༺ <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! ♥</b> ༊*·˚ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
