@@ -12,7 +12,7 @@
 const archanaserver = {
   pronouns: "she" | "her",
   code: [Javascript(React), Python, Django, Node, ASP.NET, C#],
-  tools: [OpenStack, AWS, Linux, Firebase, MongoDB, GCP, Microsoft Azure],
+  tools: [OpenStack, AWS, Linux, Firebase, MongoDB, Microsoft Azure],
   currentLearning: [Kubernetes, Docker, Cloud, OpenStack, Python],
   interests: [Product Engineering, Web Performance, Community Building, Mentorship, User Experience, Public Speaking, Technical Writing],
   techCommunities: {
