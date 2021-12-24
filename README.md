@@ -3,7 +3,7 @@
 
 #### ❝ Individual Contributor at OpenStack | Cloud & FOSS passionate | Outreachy'21 intern at OpenStack | JavaScript and Python | Cloud Computing is 🤍 ❞
 
-#### ˗ˏˋ My OpenStack contributions on <a href="https://review.opendev.org/dashboard/33380">`Gerrit`</a>, see my other learning project works here <a href="https://github.com/archanaserver/my-projects">`project works`</a> & <a href="https://archanaserver.in/blog">`blogs`</a> i published <img src="https://media.giphy.com/media/Qwo0vB87Z8mbYu1arJ/giphy.gif" width="30"> ࿐ྂ
+#### ˗ˏˋ My OpenStack contributions on <a href="https://review.opendev.org/dashboard/33380">`Gerrit`</a>, see my other learning project work here <a href="https://github.com/archanaserver/my-projects">`project works`</a> & <a href="https://archanaserver.in/blog">`blogs`</a> i published!<img src="https://media.giphy.com/media/Qwo0vB87Z8mbYu1arJ/giphy.gif" width="30"> ࿐ྂ
 
 
 ### <img src="https://media.giphy.com/media/8P7mJkmb64zMrRpYzN/giphy.gif" width="50"> A little more about me .ೃ࿔*:･
@@ -11,16 +11,18 @@
 ```javascript
 const archanaserver = {
   pronouns: "she" | "her",
-  code: [Python, Javascript(React), Django, Node, HTML/CSS, ASP.NET, C#],
-  cloud: [OpenStack, AWS, Kubernetes, Docker, CI/CD, Linux],
-  tools: [Firebase, MongoDB]
-  interests: [Cloud Computing, DevOps, Product Engineering, Web Performance, Community Building, Mentorship, User Experience, Public Speaking, Technical Writing],
+  code: ["Python", "Javascript(React)", "Django", "Node", "ASP.NET", "C#"],
+  cloud: ["OpenStack", "AWS", "Kubernetes", "Docker", "CI/CD", "Linux"],
+  tools: ["Firebase", "MongoDB"],
+  interests: ["Cloud Computing", "DevOps", "Product Engineering", "Mentorship", 
+              "Community Building", "Web Performance", "User Experience",
+              "Public Speaking", "Technical Writing"],
   techCommunities: {
-                      "anitab.org": "Open Source Day Mentor",
-                      "anitab.org": "Open Source Ambassadors",
-                      "crioaAdvocate": "Crio.Do",
-                      "campusLead": "SHEROES In Tech"
-                      "regionalHead": "GirlScript Foundation",
+                      anitabOrg: "GHC Open Source Day Mentor",
+                      anitabOrg: "Open Source Ambassadors",
+                      crioDo: "Developer Advocate",
+                      sheroesInTech: "Campus Lead",
+                      girlScript: "Regional Head and Chapter Lead",
                    },
   website: "https://archanaserver.in/",
 }
