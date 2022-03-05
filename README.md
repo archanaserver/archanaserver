@@ -12,8 +12,7 @@
 const archanaserver = {
   pronouns: "she" | "her",
   code: ["Python", "Javascript"],
-  cloud: ["OpenStack", "AWS", "Kubernetes", "Docker", "CI/CD", "Linux"],
-  tools: ["Firebase", "MongoDB"],
+  cloud: ["OpenStack", "AWS IaC", "Docker", "CI/CD", "Linux", "Kubernetes"],
   website: "https://archanaserver.in/",
 }
 ```
