@@ -11,19 +11,9 @@
 ```javascript
 const archanaserver = {
   pronouns: "she" | "her",
-  code: ["Python", "Javascript(React)", "Django", "Node", "ASP.NET", "C#"],
+  code: ["Python", "Javascript"],
   cloud: ["OpenStack", "AWS", "Kubernetes", "Docker", "CI/CD", "Linux"],
   tools: ["Firebase", "MongoDB"],
-  interests: ["Cloud Computing", "DevOps", "Product Engineering", "Mentorship", 
-              "Community Building", "Web Performance", "User Experience",
-              "Public Speaking", "Technical Writing"],
-  techCommunities: {
-                      anitabOrg: "GHC Open Source Day Mentor",
-                      anitabOrg: "Open Source Ambassadors",
-                      crioDo: "Developer Advocate",
-                      sheroesInTech: "Campus Lead",
-                      girlScript: "Regional Head and Chapter Lead",
-                   },
   website: "https://archanaserver.in/",
 }
 ```
