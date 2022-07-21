@@ -1,22 +1,15 @@
 <h2> Hi, I'm Archana Kumari! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <a href="https://archanaserver.github.io/"><img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230"></a>
 
-#### ❝ Individual Contributor at OpenStack | Cloud & FOSS passionate | Outreachy'21 intern at OpenStack | JavaScript and Python | Cloud Computing is 🤍 ❞
-
 #### ˗ˏˋ OpenStack contributions on <a href="https://review.opendev.org/dashboard/33380">`Gerrit`</a>, and <a href="https://archanaserver.in/blog">`blogs`</a> i published!<img src="https://media.giphy.com/media/Qwo0vB87Z8mbYu1arJ/giphy.gif" width="30"> ࿐ྂ
 
 
-### <img src="https://media.giphy.com/media/8P7mJkmb64zMrRpYzN/giphy.gif" width="50"> A little more about me .ೃ࿔*:･
-
-```javascript
-const archanaserver = {
-  pronouns: "she" | "her",
-  code: ["Python", "Javascript"],
-  cloud: ["OpenStack", "AWS Cloud", "Docker", "CI/CD", "Linux", "Kubernetes"],
-  web: ["React", "MongoDB", "Express", "NodeJS", "ASP.NET", "C#"]
-  website: "https://archanaserver.in/",
-}
-```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### Have something interesting to talk? Let's connect ೃ༄
 [![Twitter](https://img.shields.io/badge/-archanaserver-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/archanaserver/)](https://twitter.com/archanaserver/)
