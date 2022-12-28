@@ -16,7 +16,6 @@
 [![Linkedin](https://img.shields.io/badge/-archanaserver-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archanaserver/)](https://www.linkedin.com/in/archanaserver/)
 [![Medium](https://img.shields.io/badge/-archanaserver-black?style=flat-square&logo=Medium&logoColor=white&link=https://archanaserver.medium.com/)](https://archanaserver.medium.com/)
 [![Polywork](https://img.shields.io/badge/-archanaserver-543DE0?style=flat-square&logo=Polywork&logoColor=white&link=https://www.polywork.com/archanaserver/)](https://www.polywork.com/archanaserver/)
-[![Instagram](https://img.shields.io/badge/-archanaserver-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/archanaserver/)](https://www.instagram.com/archanaserver/)
 
 .·:*¨༺ <b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! ♥</b> ༊*·˚ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
